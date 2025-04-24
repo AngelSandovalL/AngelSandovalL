@@ -1,26 +1,26 @@
-# ¡Hola! 👋 Soy Angel Sandoval
+# Hi! 👋 I'm Angel Sandoval
 
-¡Apasionado por el mundo del **análisis de datos** y la **ciencia de datos**! Me entusiasma descubrir insights valiosos a partir de los datos y construir soluciones inteligentes.
+Passionate about the world of **data analysis** and **data science**! I'm enthusiastic about discovering valuable insights from data and building intelligent solutions.
 
-## 🛠️ Herramientas y Tecnologías:
+## 🛠️ Tools & Technologies:
 
-- 📊 **SQL:** Experiencia sólida en la manipulación y consulta de bases de datos.
-- 📈 **DAX:** Creación de modelos de datos y cálculos poderosos en Power BI.
-- ⚙️ **Power Query:** Transformación y limpieza de datos eficiente.
-- 🐍 **Python:** Actualmente en proceso de aprendizaje para expandir mis habilidades en análisis y ciencia de datos. ¡Emocionado por explorar su potencial!
-- 🧪 **R:** Interesado en aprender para complementar mi conjunto de herramientas estadísticas.
-- 🐙 **Git:** Aprendiendo a gestionar el control de versiones para colaborar de manera efectiva.
+- <img src="https://img.shields.io/badge/SQL-E34F26?style=for-the-badge&logo=sql&logoColor=white" alt="SQL">
+- <img src="https://img.shields.io/badge/DAX-00A2E8?style=for-the-badge&logo=powerbi&logoColor=white" alt="DAX">
+- <img src="https://img.shields.io/badge/Power_Query-00A2E8?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power Query">
+- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+- <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
+- <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 
-## 🌱 Aprendiendo y Creciendo:
+## 🌱 Learning and Growing:
 
-Siempre en la búsqueda de nuevos conocimientos y desafíos. Actualmente enfocado en fortalecer mis habilidades en Python y explorar el mundo de R. ¡El aprendizaje continuo es clave!
+Always in search of new knowledge and challenges. Currently focused on strengthening my Python skills and exploring the world of R. Continuous learning is key!
 
-## 🔗 Conéctate conmigo:
+## 🔗 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angel-sandoval-76a806137/)
 
-## 💬 Una reflexión:
+## 💬 A thought:
 
-_"It's OK not to be OK :):"_ Un recordatorio constante de que está bien no estar perfecto y que el bienestar es fundamental en el camino del aprendizaje y el crecimiento.
+_"It's OK not to be OK :):"_ A constant reminder that it's okay not to be perfect and that well-being is fundamental on the path of learning and growth.
 
 ---
