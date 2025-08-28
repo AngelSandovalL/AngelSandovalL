@@ -53,11 +53,3 @@ Currently, as a **Power BI Developer at Quark Intel**, I design and implement in
 <a href="mailto:Mlangel.sand@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
-
----
-### 📊 Mis Estadísticas de GitHub / My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AngelSandovalL&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelSandovalL&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados">
-</p>
