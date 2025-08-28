@@ -1,31 +1,63 @@
-# Hi! 👋 I'm Angel Sandoval
+# ¡Hola! 👋 Soy Angel Sandoval
+### Analista de Datos | Power BI Developer
 
-Passionate about the world of **data analysis** and **data science**! I'm enthusiastic about discovering valuable insights from data and building intelligent solutions.
+Soy un Ingeniero en Sistemas Computacionales apasionado por transformar datos en información valiosa. Con experiencia en logística, RRHH y el sector restaurantero, me especializo en la creación de soluciones de Business Intelligence que impulsan la toma de decisiones estratégicas. Actualmente, estoy expandiendo mis habilidades y formándome activamente como Data Scientist.
 
-## 🛠️ Tools & Technologies:
+Soy una persona creativa, disciplinada y siempre lista para resolver problemas complejos.
 
-I'm currently focusing on:
-<img src="https://img.shields.io/badge/SQL-E34F26?style=for-the-badge&logo=sql&logoColor=white" alt="SQL">
-<img src="https://img.shields.io/badge/DAX-00A2E8?style=for-the-badge&logo=powerbi&logoColor=white" alt="DAX">
-<img src="https://img.shields.io/badge/Power_Query-00A2E8?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power Query">
+<details>
+<summary>🇬🇧 Read in English</summary>
 
-Eagerly learning:
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" width="80">
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" width="70">
+I am a Computer Systems Engineer passionate about transforming data into valuable insights. With experience in logistics, HR, and the restaurant industry, I specialise in creating Business Intelligence solutions that drive strategic decision-making. I am currently expanding my skills and actively training to become a Data Scientist.
 
-Also familiar with:
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" width="60">
+I am a creative, disciplined, and proactive problem-solver.
 
-## 🌱 Learning and Growing:
-
-Always in search of new knowledge and challenges. Currently focused on strengthening my Python skills and exploring the world of R. Continuous learning is key!
-
-## 🔗 Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angel-sandoval-76a806137/)
-
-## 💬 A bit more about me:
-
-_"It's OK not to be OK :):"_ A constant reminder that it's okay not to be perfect and that well-being is fundamental on the path of learning and growth. In my free time, I also enjoy diving into the world of gaming 🎮.
+</details>
 
 ---
+
+### 🛠️ Mi Stack de Tecnologías / My Tech Stack
+
+| Visualización y Modelado | Bases de Datos y ETL | Cloud |
+| :---: | :---: | :---: |
+| ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) | ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) | ![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-2C75DE?style=for-the-badge&logo=azuredatafactory&logoColor=white) |
+| ![DAX](https://img.shields.io/badge/DAX-black?style=for-the-badge&logo=powerbi&logoColor=white) | ![Power Query](https://img.shields.io/badge/Power%20Query-07850F?style=for-the-badge&logo=microsoftexcel&logoColor=white) | |
+| ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) | | |
+
+---
+
+### 🚀 Mi Experiencia Destacada / My Key Experience
+
+Actualmente, como **Power BI Developer en Quark Intel**, diseño e implemento dashboards interactivos para el sector restaurantero.
+
+🏆 **Logro Clave**: Desarrollé e implementé soluciones de BI que **redujeron el tiempo de generación de reportes de 2 horas (proceso manual) a menos de 2 minutos** a través de la aplicación web de Power BI, transformando el acceso a información crítica para la operación.
+
+<details>
+<summary>🇬🇧 Read in English</summary>
+  
+Currently, as a **Power BI Developer at Quark Intel**, I design and implement interactive dashboards for the restaurant industry.
+
+[cite_start]🏆 **Key Achievement**: I developed and implemented BI solutions that **reduced report generation time from 2 hours (manual process) to under 2 minutes** via the Power BI web application, transforming access to mission-critical information[cite: 18].
+  
+</details>
+
+---
+
+### 📫 ¿Conectamos? / Let's Connect!
+
+¡Siempre estoy abierto a colaborar en proyectos interesantes y a conectar con otros profesionales del sector! / I'm always open to collaborating on interesting projects and connecting with other professionals in the field!
+
+<a href="https://linkedin.com/in/angel-sandoval-76a806137" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:Mlangel.sand@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+---
+### 📊 Mis Estadísticas de GitHub / My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[TU-USUARIO-DE-GITHUB]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU-USUARIO-DE-GITHUB]&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados">
+</p>
