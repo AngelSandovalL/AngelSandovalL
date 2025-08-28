@@ -58,6 +58,6 @@ Currently, as a **Power BI Developer at Quark Intel**, I design and implement in
 ### 📊 Mis Estadísticas de GitHub / My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[TU-USUARIO-DE-GITHUB]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU-USUARIO-DE-GITHUB]&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados">
+  <img src="https://github-readme-stats.vercel.app/api?username=AngelSandovalL&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelSandovalL&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados">
 </p>
